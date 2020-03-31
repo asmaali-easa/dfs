@@ -7,7 +7,7 @@ go: (in) set 1 to start the algorithm.
 start: (in) the start node.
 n: (in) the number of vertices.
 print: (out) the visited vertices in order.
-adj: this component represents the adjacency list and the linked lists, it takes a vertex as an input and gives the number of the first node in a linked list of nodes representing the vertices adjacent to vertex i as an output. it also takes the number of any node and gives the vertex of this node and the number of the next node.
+adj: this component represents the adjacency list and the linked lists, it takes a vertex as an input and gives the number of the first node in a linked list of nodes representing the vertices adjacent to this vertex as an output. it also takes the number of any node and gives the vertex of this node and the number of the next node.
 
 ## Install
 
